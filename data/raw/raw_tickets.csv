@@ -1,0 +1,601 @@
+text,category,priority
+Just checking what date my next automatic renewal is scheduled for. (ref-1000),Billing,Low
+Minor typo found in the tooltip under the export settings menu. (ref-1001),Technical Support,Low
+My account was billed $45 after I already canceled my subscription. (ref-1002),Billing,High
+Where can I view my past payment receipts in the dashboard? (ref-1003),Billing,Low
+I was double charged $395 on my credit card today. Refund immediately! (ref-1004),Billing,High
+Adding custom color themes for workspace branding would be nice. (ref-1005),Feature Request,Low
+Just checking what date my next automatic renewal is scheduled for. (ref-1006),Billing,Low
+How do I change the display name shown on my user profile? (ref-1007),Account Access,Low
+Does your annual plan offer a discount compared to monthly billing? (ref-1008),Billing,Low
+Admin user left the company and we cannot access the primary workspace. (ref-1009),Account Access,High
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1010),Feature Request,High
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1011),Account Access,High
+Production API is returning 500 Internal Server Error for all requests! (ref-1012),Technical Support,High
+Webhook notifications are delayed by about 15 minutes today. (ref-1013),Technical Support,Medium
+My promo code did not apply to my recent renewal payment. (ref-1014),Billing,Medium
+Where can I add a backup email address to my account settings? (ref-1015),Account Access,Low
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1016),Account Access,High
+Data export job has been stuck at 0% for 6 hours and blocking our release. (ref-1017),Technical Support,High
+Can you add Slack integration for real-time ticket alerts? (ref-1018),Feature Request,Medium
+Our entire team is locked out because the app crashes right after login. (ref-1019),Technical Support,High
+Can you share documentation on setting up custom webhook headers? (ref-1020),Technical Support,Low
+Just checking what date my next automatic renewal is scheduled for. (ref-1021),Billing,Low
+Our entire team is locked out because the app crashes right after login. (ref-1022),Technical Support,High
+Adding custom color themes for workspace branding would be nice. (ref-1023),Feature Request,Low
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1024),Account Access,High
+It would be very helpful to schedule automated weekly PDF reports. (ref-1025),Feature Request,Medium
+Would love a compact table view option on smaller laptop screens. (ref-1026),Feature Request,Low
+Production API is returning 500 Internal Server Error for all requests! (ref-1027),Technical Support,High
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1028),Feature Request,High
+Audit logs for user role changes are required for our compliance audit. (ref-1029),Feature Request,High
+Unauthorized charge of $413 appeared on my invoice #44973. (ref-1030),Billing,High
+Where can I add a backup email address to my account settings? (ref-1031),Account Access,Low
+Could you allow sorting saved filters alphabetically? (ref-1032),Feature Request,Low
+Production API is returning 500 Internal Server Error for all requests! (ref-1033),Technical Support,High
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1034),Account Access,High
+Webhook notifications are delayed by about 15 minutes today. (ref-1035),Technical Support,Medium
+My account was billed $279 after I already canceled my subscription. (ref-1036),Billing,High
+My promo code did not apply to my recent renewal payment. (ref-1037),Billing,Medium
+Production API is returning 500 Internal Server Error for all requests! (ref-1038),Technical Support,High
+I was double charged $94 on my credit card today. Refund immediately! (ref-1039),Billing,High
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1040),Feature Request,High
+Could you allow sorting saved filters alphabetically? (ref-1041),Feature Request,Low
+SSO login with Google throws a permissions mismatch error. (ref-1042),Account Access,Medium
+Audit logs for user role changes are required for our compliance audit. (ref-1043),Feature Request,High
+Can you share documentation on setting up custom webhook headers? (ref-1044),Technical Support,Low
+Production API is returning 500 Internal Server Error for all requests! (ref-1045),Technical Support,High
+Where can I view my past payment receipts in the dashboard? (ref-1046),Billing,Low
+Can I link my GitHub account to my existing email login? (ref-1047),Account Access,Low
+Could you allow sorting saved filters alphabetically? (ref-1048),Feature Request,Low
+Adding custom color themes for workspace branding would be nice. (ref-1049),Feature Request,Low
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1050),Technical Support,Low
+Need help transferring workspace ownership to another team member. (ref-1051),Account Access,Medium
+Does your annual plan offer a discount compared to monthly billing? (ref-1052),Billing,Low
+Where can I view my past payment receipts in the dashboard? (ref-1053),Billing,Low
+Adding custom color themes for workspace branding would be nice. (ref-1054),Feature Request,Low
+Would love a compact table view option on smaller laptop screens. (ref-1055),Feature Request,Low
+Just checking what date my next automatic renewal is scheduled for. (ref-1056),Billing,Low
+Where can I view my past payment receipts in the dashboard? (ref-1057),Billing,Low
+Adding custom color themes for workspace branding would be nice. (ref-1058),Feature Request,Low
+Webhook notifications are delayed by about 15 minutes today. (ref-1059),Technical Support,Medium
+Can you add Slack integration for real-time ticket alerts? (ref-1060),Feature Request,Medium
+Would love a compact table view option on smaller laptop screens. (ref-1061),Feature Request,Low
+Unauthorized charge of $306 appeared on my invoice #17989. (ref-1062),Billing,High
+How do I change the display name shown on my user profile? (ref-1063),Account Access,Low
+Minor typo found in the tooltip under the export settings menu. (ref-1064),Technical Support,Low
+I was double charged $374 on my credit card today. Refund immediately! (ref-1065),Billing,High
+Could you allow sorting saved filters alphabetically? (ref-1066),Feature Request,Low
+I was double charged $243 on my credit card today. Refund immediately! (ref-1067),Billing,High
+Password reset email link says expired as soon as I click it. (ref-1068),Account Access,Medium
+CSV upload fails whenever the file contains special characters. (ref-1069),Technical Support,Medium
+Need help transferring workspace ownership to another team member. (ref-1070),Account Access,Medium
+How do I update my company VAT number for future billing cycles? (ref-1071),Billing,Medium
+I was double charged $288 on my credit card today. Refund immediately! (ref-1072),Billing,High
+Webhook notifications are delayed by about 15 minutes today. (ref-1073),Technical Support,Medium
+Password reset email link says expired as soon as I click it. (ref-1074),Account Access,Medium
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1075),Account Access,High
+I suspect my account was compromised. Please freeze access immediately! (ref-1076),Account Access,High
+How do I change the display name shown on my user profile? (ref-1077),Account Access,Low
+CSV upload fails whenever the file contains special characters. (ref-1078),Technical Support,Medium
+Can I link my GitHub account to my existing email login? (ref-1079),Account Access,Low
+It would be very helpful to schedule automated weekly PDF reports. (ref-1080),Feature Request,Medium
+It would be very helpful to schedule automated weekly PDF reports. (ref-1081),Feature Request,Medium
+Our entire team is locked out because the app crashes right after login. (ref-1082),Technical Support,High
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1083),Feature Request,High
+Production API is returning 500 Internal Server Error for all requests! (ref-1084),Technical Support,High
+Webhook notifications are delayed by about 15 minutes today. (ref-1085),Technical Support,Medium
+Where can I add a backup email address to my account settings? (ref-1086),Account Access,Low
+Production API is returning 500 Internal Server Error for all requests! (ref-1087),Technical Support,High
+Please add role-based access control for read-only contractors. (ref-1088),Feature Request,High
+Can you share documentation on setting up custom webhook headers? (ref-1089),Technical Support,Low
+SSO login with Google throws a permissions mismatch error. (ref-1090),Account Access,Medium
+Can I link my GitHub account to my existing email login? (ref-1091),Account Access,Low
+Can I get a copy of my tax invoice #70332 for last month? (ref-1092),Billing,Medium
+Password reset email link says expired as soon as I click it. (ref-1093),Account Access,Medium
+CSV upload fails whenever the file contains special characters. (ref-1094),Technical Support,Medium
+SSO login with Google throws a permissions mismatch error. (ref-1095),Account Access,Medium
+How do I change the display name shown on my user profile? (ref-1096),Account Access,Low
+Our entire team is locked out because the app crashes right after login. (ref-1097),Technical Support,High
+Support for bulk editing tags across multiple records at once. (ref-1098),Feature Request,Medium
+Please add role-based access control for read-only contractors. (ref-1099),Feature Request,High
+Webhook notifications are delayed by about 15 minutes today. (ref-1100),Technical Support,Medium
+Unauthorized charge of $380 appeared on my invoice #97900. (ref-1101),Billing,High
+CSV upload fails whenever the file contains special characters. (ref-1102),Technical Support,Medium
+Admin user left the company and we cannot access the primary workspace. (ref-1103),Account Access,High
+Admin user left the company and we cannot access the primary workspace. (ref-1104),Account Access,High
+SSO login with Google throws a permissions mismatch error. (ref-1105),Account Access,Medium
+Can you share documentation on setting up custom webhook headers? (ref-1106),Technical Support,Low
+Data export job has been stuck at 0% for 6 hours and blocking our release. (ref-1107),Technical Support,High
+My promo code did not apply to my recent renewal payment. (ref-1108),Billing,Medium
+Need help transferring workspace ownership to another team member. (ref-1109),Account Access,Medium
+Our entire team is locked out because the app crashes right after login. (ref-1110),Technical Support,High
+How do I update my company VAT number for future billing cycles? (ref-1111),Billing,Medium
+How do I change the display name shown on my user profile? (ref-1112),Account Access,Low
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1113),Technical Support,Low
+Dark mode layout overlaps text on the analytics reporting page. (ref-1114),Technical Support,Medium
+Support for bulk editing tags across multiple records at once. (ref-1115),Feature Request,Medium
+Can you add Slack integration for real-time ticket alerts? (ref-1116),Feature Request,Medium
+Does your annual plan offer a discount compared to monthly billing? (ref-1117),Billing,Low
+Could you allow sorting saved filters alphabetically? (ref-1118),Feature Request,Low
+Adding custom color themes for workspace branding would be nice. (ref-1119),Feature Request,Low
+SSO login with Google throws a permissions mismatch error. (ref-1120),Account Access,Medium
+Audit logs for user role changes are required for our compliance audit. (ref-1121),Feature Request,High
+Can you add Slack integration for real-time ticket alerts? (ref-1122),Feature Request,Medium
+Admin user left the company and we cannot access the primary workspace. (ref-1123),Account Access,High
+Password reset email link says expired as soon as I click it. (ref-1124),Account Access,Medium
+CSV upload fails whenever the file contains special characters. (ref-1125),Technical Support,Medium
+Where can I view my past payment receipts in the dashboard? (ref-1126),Billing,Low
+Production API is returning 500 Internal Server Error for all requests! (ref-1127),Technical Support,High
+Support for bulk editing tags across multiple records at once. (ref-1128),Feature Request,Medium
+Does your annual plan offer a discount compared to monthly billing? (ref-1129),Billing,Low
+My account was billed $273 after I already canceled my subscription. (ref-1130),Billing,High
+Need help transferring workspace ownership to another team member. (ref-1131),Account Access,Medium
+Webhook notifications are delayed by about 15 minutes today. (ref-1132),Technical Support,Medium
+Adding custom color themes for workspace branding would be nice. (ref-1133),Feature Request,Low
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1134),Feature Request,High
+Data export job has been stuck at 0% for 6 hours and blocking our release. (ref-1135),Technical Support,High
+Just checking what date my next automatic renewal is scheduled for. (ref-1136),Billing,Low
+Would love a compact table view option on smaller laptop screens. (ref-1137),Feature Request,Low
+Where can I add a backup email address to my account settings? (ref-1138),Account Access,Low
+Can you add Slack integration for real-time ticket alerts? (ref-1139),Feature Request,Medium
+Could you allow sorting saved filters alphabetically? (ref-1140),Feature Request,Low
+Can I link my GitHub account to my existing email login? (ref-1141),Account Access,Low
+Where can I view my past payment receipts in the dashboard? (ref-1142),Billing,Low
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1143),Technical Support,Low
+I was double charged $267 on my credit card today. Refund immediately! (ref-1144),Billing,High
+Can I link my GitHub account to my existing email login? (ref-1145),Account Access,Low
+Webhook notifications are delayed by about 15 minutes today. (ref-1146),Technical Support,Medium
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1147),Account Access,High
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1148),Feature Request,High
+Minor typo found in the tooltip under the export settings menu. (ref-1149),Technical Support,Low
+I was double charged $206 on my credit card today. Refund immediately! (ref-1150),Billing,High
+Audit logs for user role changes are required for our compliance audit. (ref-1151),Feature Request,High
+Where can I add a backup email address to my account settings? (ref-1152),Account Access,Low
+My promo code did not apply to my recent renewal payment. (ref-1153),Billing,Medium
+Webhook notifications are delayed by about 15 minutes today. (ref-1154),Technical Support,Medium
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1155),Account Access,High
+Support for bulk editing tags across multiple records at once. (ref-1156),Feature Request,Medium
+How do I change the display name shown on my user profile? (ref-1157),Account Access,Low
+Dark mode layout overlaps text on the analytics reporting page. (ref-1158),Technical Support,Medium
+It would be very helpful to schedule automated weekly PDF reports. (ref-1159),Feature Request,Medium
+Webhook notifications are delayed by about 15 minutes today. (ref-1160),Technical Support,Medium
+SSO login with Google throws a permissions mismatch error. (ref-1161),Account Access,Medium
+I was double charged $72 on my credit card today. Refund immediately! (ref-1162),Billing,High
+Support for bulk editing tags across multiple records at once. (ref-1163),Feature Request,Medium
+Please add role-based access control for read-only contractors. (ref-1164),Feature Request,High
+Does your annual plan offer a discount compared to monthly billing? (ref-1165),Billing,Low
+Dark mode layout overlaps text on the analytics reporting page. (ref-1166),Technical Support,Medium
+Please add role-based access control for read-only contractors. (ref-1167),Feature Request,High
+SSO login with Google throws a permissions mismatch error. (ref-1168),Account Access,Medium
+Password reset email link says expired as soon as I click it. (ref-1169),Account Access,Medium
+Can I link my GitHub account to my existing email login? (ref-1170),Account Access,Low
+Minor typo found in the tooltip under the export settings menu. (ref-1171),Technical Support,Low
+How do I change the display name shown on my user profile? (ref-1172),Account Access,Low
+Where can I add a backup email address to my account settings? (ref-1173),Account Access,Low
+Webhook notifications are delayed by about 15 minutes today. (ref-1174),Technical Support,Medium
+I suspect my account was compromised. Please freeze access immediately! (ref-1175),Account Access,High
+Just checking what date my next automatic renewal is scheduled for. (ref-1176),Billing,Low
+Can you add Slack integration for real-time ticket alerts? (ref-1177),Feature Request,Medium
+Password reset email link says expired as soon as I click it. (ref-1178),Account Access,Medium
+It would be very helpful to schedule automated weekly PDF reports. (ref-1179),Feature Request,Medium
+Where can I view my past payment receipts in the dashboard? (ref-1180),Billing,Low
+How do I change the display name shown on my user profile? (ref-1181),Account Access,Low
+Please add role-based access control for read-only contractors. (ref-1182),Feature Request,High
+Our entire team is locked out because the app crashes right after login. (ref-1183),Technical Support,High
+Admin user left the company and we cannot access the primary workspace. (ref-1184),Account Access,High
+Unauthorized charge of $79 appeared on my invoice #37235. (ref-1185),Billing,High
+Dark mode layout overlaps text on the analytics reporting page. (ref-1186),Technical Support,Medium
+Minor typo found in the tooltip under the export settings menu. (ref-1187),Technical Support,Low
+My promo code did not apply to my recent renewal payment. (ref-1188),Billing,Medium
+It would be very helpful to schedule automated weekly PDF reports. (ref-1189),Feature Request,Medium
+Admin user left the company and we cannot access the primary workspace. (ref-1190),Account Access,High
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1191),Account Access,High
+Could you allow sorting saved filters alphabetically? (ref-1192),Feature Request,Low
+Webhook notifications are delayed by about 15 minutes today. (ref-1193),Technical Support,Medium
+Dark mode layout overlaps text on the analytics reporting page. (ref-1194),Technical Support,Medium
+Password reset email link says expired as soon as I click it. (ref-1195),Account Access,Medium
+Support for bulk editing tags across multiple records at once. (ref-1196),Feature Request,Medium
+Could you allow sorting saved filters alphabetically? (ref-1197),Feature Request,Low
+Admin user left the company and we cannot access the primary workspace. (ref-1198),Account Access,High
+Data export job has been stuck at 0% for 6 hours and blocking our release. (ref-1199),Technical Support,High
+I suspect my account was compromised. Please freeze access immediately! (ref-1200),Account Access,High
+Please add role-based access control for read-only contractors. (ref-1201),Feature Request,High
+Our entire team is locked out because the app crashes right after login. (ref-1202),Technical Support,High
+My promo code did not apply to my recent renewal payment. (ref-1203),Billing,Medium
+I suspect my account was compromised. Please freeze access immediately! (ref-1204),Account Access,High
+SSO login with Google throws a permissions mismatch error. (ref-1205),Account Access,Medium
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1206),Feature Request,High
+Need help transferring workspace ownership to another team member. (ref-1207),Account Access,Medium
+Unauthorized charge of $265 appeared on my invoice #64165. (ref-1208),Billing,High
+Just checking what date my next automatic renewal is scheduled for. (ref-1209),Billing,Low
+Audit logs for user role changes are required for our compliance audit. (ref-1210),Feature Request,High
+Dark mode layout overlaps text on the analytics reporting page. (ref-1211),Technical Support,Medium
+Audit logs for user role changes are required for our compliance audit. (ref-1212),Feature Request,High
+Production API is returning 500 Internal Server Error for all requests! (ref-1213),Technical Support,High
+My account was billed $76 after I already canceled my subscription. (ref-1214),Billing,High
+Can I get a copy of my tax invoice #30181 for last month? (ref-1215),Billing,Medium
+Audit logs for user role changes are required for our compliance audit. (ref-1216),Feature Request,High
+Can you add Slack integration for real-time ticket alerts? (ref-1217),Feature Request,Medium
+Webhook notifications are delayed by about 15 minutes today. (ref-1218),Technical Support,Medium
+Can you share documentation on setting up custom webhook headers? (ref-1219),Technical Support,Low
+Admin user left the company and we cannot access the primary workspace. (ref-1220),Account Access,High
+Admin user left the company and we cannot access the primary workspace. (ref-1221),Account Access,High
+Adding custom color themes for workspace branding would be nice. (ref-1222),Feature Request,Low
+SSO login with Google throws a permissions mismatch error. (ref-1223),Account Access,Medium
+Can you add Slack integration for real-time ticket alerts? (ref-1224),Feature Request,Medium
+Our entire team is locked out because the app crashes right after login. (ref-1225),Technical Support,High
+How do I update my company VAT number for future billing cycles? (ref-1226),Billing,Medium
+Please add role-based access control for read-only contractors. (ref-1227),Feature Request,High
+Just checking what date my next automatic renewal is scheduled for. (ref-1228),Billing,Low
+Can I get a copy of my tax invoice #69890 for last month? (ref-1229),Billing,Medium
+I was double charged $238 on my credit card today. Refund immediately! (ref-1230),Billing,High
+Can you share documentation on setting up custom webhook headers? (ref-1231),Technical Support,Low
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1232),Account Access,High
+How do I update my company VAT number for future billing cycles? (ref-1233),Billing,Medium
+Support for bulk editing tags across multiple records at once. (ref-1234),Feature Request,Medium
+I was double charged $149 on my credit card today. Refund immediately! (ref-1235),Billing,High
+Can I link my GitHub account to my existing email login? (ref-1236),Account Access,Low
+Unauthorized charge of $475 appeared on my invoice #23173. (ref-1237),Billing,High
+Could you allow sorting saved filters alphabetically? (ref-1238),Feature Request,Low
+Can I get a copy of my tax invoice #56984 for last month? (ref-1239),Billing,Medium
+Password reset email link says expired as soon as I click it. (ref-1240),Account Access,Medium
+Please add role-based access control for read-only contractors. (ref-1241),Feature Request,High
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1242),Technical Support,Low
+Dark mode layout overlaps text on the analytics reporting page. (ref-1243),Technical Support,Medium
+Audit logs for user role changes are required for our compliance audit. (ref-1244),Feature Request,High
+My promo code did not apply to my recent renewal payment. (ref-1245),Billing,Medium
+Can you share documentation on setting up custom webhook headers? (ref-1246),Technical Support,Low
+Admin user left the company and we cannot access the primary workspace. (ref-1247),Account Access,High
+It would be very helpful to schedule automated weekly PDF reports. (ref-1248),Feature Request,Medium
+Does your annual plan offer a discount compared to monthly billing? (ref-1249),Billing,Low
+Admin user left the company and we cannot access the primary workspace. (ref-1250),Account Access,High
+It would be very helpful to schedule automated weekly PDF reports. (ref-1251),Feature Request,Medium
+Unauthorized charge of $283 appeared on my invoice #47512. (ref-1252),Billing,High
+Our entire team is locked out because the app crashes right after login. (ref-1253),Technical Support,High
+Our entire team is locked out because the app crashes right after login. (ref-1254),Technical Support,High
+Production API is returning 500 Internal Server Error for all requests! (ref-1255),Technical Support,High
+My promo code did not apply to my recent renewal payment. (ref-1256),Billing,Medium
+I suspect my account was compromised. Please freeze access immediately! (ref-1257),Account Access,High
+Admin user left the company and we cannot access the primary workspace. (ref-1258),Account Access,High
+Our entire team is locked out because the app crashes right after login. (ref-1259),Technical Support,High
+Where can I add a backup email address to my account settings? (ref-1260),Account Access,Low
+Admin user left the company and we cannot access the primary workspace. (ref-1261),Account Access,High
+Would love a compact table view option on smaller laptop screens. (ref-1262),Feature Request,Low
+Audit logs for user role changes are required for our compliance audit. (ref-1263),Feature Request,High
+How do I update my company VAT number for future billing cycles? (ref-1264),Billing,Medium
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1265),Account Access,High
+Audit logs for user role changes are required for our compliance audit. (ref-1266),Feature Request,High
+Webhook notifications are delayed by about 15 minutes today. (ref-1267),Technical Support,Medium
+I suspect my account was compromised. Please freeze access immediately! (ref-1268),Account Access,High
+Audit logs for user role changes are required for our compliance audit. (ref-1269),Feature Request,High
+Where can I view my past payment receipts in the dashboard? (ref-1270),Billing,Low
+Would love a compact table view option on smaller laptop screens. (ref-1271),Feature Request,Low
+CSV upload fails whenever the file contains special characters. (ref-1272),Technical Support,Medium
+Please add role-based access control for read-only contractors. (ref-1273),Feature Request,High
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1274),Feature Request,High
+It would be very helpful to schedule automated weekly PDF reports. (ref-1275),Feature Request,Medium
+CSV upload fails whenever the file contains special characters. (ref-1276),Technical Support,Medium
+My account was billed $307 after I already canceled my subscription. (ref-1277),Billing,High
+Where can I add a backup email address to my account settings? (ref-1278),Account Access,Low
+Can I get a copy of my tax invoice #37801 for last month? (ref-1279),Billing,Medium
+Does your annual plan offer a discount compared to monthly billing? (ref-1280),Billing,Low
+Minor typo found in the tooltip under the export settings menu. (ref-1281),Technical Support,Low
+Can you share documentation on setting up custom webhook headers? (ref-1282),Technical Support,Low
+Can I get a copy of my tax invoice #80807 for last month? (ref-1283),Billing,Medium
+How do I change the display name shown on my user profile? (ref-1284),Account Access,Low
+Can you share documentation on setting up custom webhook headers? (ref-1285),Technical Support,Low
+How do I change the display name shown on my user profile? (ref-1286),Account Access,Low
+Our entire team is locked out because the app crashes right after login. (ref-1287),Technical Support,High
+My promo code did not apply to my recent renewal payment. (ref-1288),Billing,Medium
+How do I update my company VAT number for future billing cycles? (ref-1289),Billing,Medium
+Unauthorized charge of $295 appeared on my invoice #49535. (ref-1290),Billing,High
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1291),Feature Request,High
+Support for bulk editing tags across multiple records at once. (ref-1292),Feature Request,Medium
+Would love a compact table view option on smaller laptop screens. (ref-1293),Feature Request,Low
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1294),Technical Support,Low
+SSO login with Google throws a permissions mismatch error. (ref-1295),Account Access,Medium
+Please add role-based access control for read-only contractors. (ref-1296),Feature Request,High
+Unauthorized charge of $478 appeared on my invoice #82264. (ref-1297),Billing,High
+CSV upload fails whenever the file contains special characters. (ref-1298),Technical Support,Medium
+Can you add Slack integration for real-time ticket alerts? (ref-1299),Feature Request,Medium
+My promo code did not apply to my recent renewal payment. (ref-1300),Billing,Medium
+Password reset email link says expired as soon as I click it. (ref-1301),Account Access,Medium
+Where can I view my past payment receipts in the dashboard? (ref-1302),Billing,Low
+Unauthorized charge of $219 appeared on my invoice #27054. (ref-1303),Billing,High
+Unauthorized charge of $316 appeared on my invoice #53207. (ref-1304),Billing,High
+My promo code did not apply to my recent renewal payment. (ref-1305),Billing,Medium
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1306),Feature Request,High
+Password reset email link says expired as soon as I click it. (ref-1307),Account Access,Medium
+Minor typo found in the tooltip under the export settings menu. (ref-1308),Technical Support,Low
+How do I update my company VAT number for future billing cycles? (ref-1309),Billing,Medium
+I suspect my account was compromised. Please freeze access immediately! (ref-1310),Account Access,High
+Unauthorized charge of $453 appeared on my invoice #45054. (ref-1311),Billing,High
+Does your annual plan offer a discount compared to monthly billing? (ref-1312),Billing,Low
+Password reset email link says expired as soon as I click it. (ref-1313),Account Access,Medium
+Would love a compact table view option on smaller laptop screens. (ref-1314),Feature Request,Low
+Just checking what date my next automatic renewal is scheduled for. (ref-1315),Billing,Low
+Can you add Slack integration for real-time ticket alerts? (ref-1316),Feature Request,Medium
+SSO login with Google throws a permissions mismatch error. (ref-1317),Account Access,Medium
+Where can I view my past payment receipts in the dashboard? (ref-1318),Billing,Low
+I was double charged $168 on my credit card today. Refund immediately! (ref-1319),Billing,High
+Support for bulk editing tags across multiple records at once. (ref-1320),Feature Request,Medium
+Can I link my GitHub account to my existing email login? (ref-1321),Account Access,Low
+Adding custom color themes for workspace branding would be nice. (ref-1322),Feature Request,Low
+Please add role-based access control for read-only contractors. (ref-1323),Feature Request,High
+Dark mode layout overlaps text on the analytics reporting page. (ref-1324),Technical Support,Medium
+Webhook notifications are delayed by about 15 minutes today. (ref-1325),Technical Support,Medium
+Need help transferring workspace ownership to another team member. (ref-1326),Account Access,Medium
+Audit logs for user role changes are required for our compliance audit. (ref-1327),Feature Request,High
+Please add role-based access control for read-only contractors. (ref-1328),Feature Request,High
+Where can I add a backup email address to my account settings? (ref-1329),Account Access,Low
+Adding custom color themes for workspace branding would be nice. (ref-1330),Feature Request,Low
+Audit logs for user role changes are required for our compliance audit. (ref-1331),Feature Request,High
+It would be very helpful to schedule automated weekly PDF reports. (ref-1332),Feature Request,Medium
+Can I link my GitHub account to my existing email login? (ref-1333),Account Access,Low
+Can I get a copy of my tax invoice #67104 for last month? (ref-1334),Billing,Medium
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1335),Feature Request,High
+Where can I add a backup email address to my account settings? (ref-1336),Account Access,Low
+Unauthorized charge of $87 appeared on my invoice #79547. (ref-1337),Billing,High
+CSV upload fails whenever the file contains special characters. (ref-1338),Technical Support,Medium
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1339),Technical Support,Low
+Minor typo found in the tooltip under the export settings menu. (ref-1340),Technical Support,Low
+Just checking what date my next automatic renewal is scheduled for. (ref-1341),Billing,Low
+Please add role-based access control for read-only contractors. (ref-1342),Feature Request,High
+Admin user left the company and we cannot access the primary workspace. (ref-1343),Account Access,High
+My promo code did not apply to my recent renewal payment. (ref-1344),Billing,Medium
+I suspect my account was compromised. Please freeze access immediately! (ref-1345),Account Access,High
+My promo code did not apply to my recent renewal payment. (ref-1346),Billing,Medium
+My promo code did not apply to my recent renewal payment. (ref-1347),Billing,Medium
+Unauthorized charge of $288 appeared on my invoice #60394. (ref-1348),Billing,High
+Please add role-based access control for read-only contractors. (ref-1349),Feature Request,High
+Please add role-based access control for read-only contractors. (ref-1350),Feature Request,High
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1351),Feature Request,High
+How do I update my company VAT number for future billing cycles? (ref-1352),Billing,Medium
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1353),Technical Support,Low
+Please add role-based access control for read-only contractors. (ref-1354),Feature Request,High
+Need help transferring workspace ownership to another team member. (ref-1355),Account Access,Medium
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1356),Account Access,High
+Where can I add a backup email address to my account settings? (ref-1357),Account Access,Low
+Can you add Slack integration for real-time ticket alerts? (ref-1358),Feature Request,Medium
+Webhook notifications are delayed by about 15 minutes today. (ref-1359),Technical Support,Medium
+CSV upload fails whenever the file contains special characters. (ref-1360),Technical Support,Medium
+Could you allow sorting saved filters alphabetically? (ref-1361),Feature Request,Low
+Admin user left the company and we cannot access the primary workspace. (ref-1362),Account Access,High
+Data export job has been stuck at 0% for 6 hours and blocking our release. (ref-1363),Technical Support,High
+Unauthorized charge of $245 appeared on my invoice #76648. (ref-1364),Billing,High
+Where can I add a backup email address to my account settings? (ref-1365),Account Access,Low
+CSV upload fails whenever the file contains special characters. (ref-1366),Technical Support,Medium
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1367),Technical Support,Low
+My account was billed $477 after I already canceled my subscription. (ref-1368),Billing,High
+Our entire team is locked out because the app crashes right after login. (ref-1369),Technical Support,High
+Data export job has been stuck at 0% for 6 hours and blocking our release. (ref-1370),Technical Support,High
+Adding custom color themes for workspace branding would be nice. (ref-1371),Feature Request,Low
+Dark mode layout overlaps text on the analytics reporting page. (ref-1372),Technical Support,Medium
+Production API is returning 500 Internal Server Error for all requests! (ref-1373),Technical Support,High
+Dark mode layout overlaps text on the analytics reporting page. (ref-1374),Technical Support,Medium
+Can you add Slack integration for real-time ticket alerts? (ref-1375),Feature Request,Medium
+Would love a compact table view option on smaller laptop screens. (ref-1376),Feature Request,Low
+Webhook notifications are delayed by about 15 minutes today. (ref-1377),Technical Support,Medium
+I suspect my account was compromised. Please freeze access immediately! (ref-1378),Account Access,High
+Can I get a copy of my tax invoice #31012 for last month? (ref-1379),Billing,Medium
+SSO login with Google throws a permissions mismatch error. (ref-1380),Account Access,Medium
+Does your annual plan offer a discount compared to monthly billing? (ref-1381),Billing,Low
+Can I get a copy of my tax invoice #75799 for last month? (ref-1382),Billing,Medium
+Where can I add a backup email address to my account settings? (ref-1383),Account Access,Low
+Can you share documentation on setting up custom webhook headers? (ref-1384),Technical Support,Low
+How do I change the display name shown on my user profile? (ref-1385),Account Access,Low
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1386),Feature Request,High
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1387),Feature Request,High
+Can I get a copy of my tax invoice #29597 for last month? (ref-1388),Billing,Medium
+Adding custom color themes for workspace branding would be nice. (ref-1389),Feature Request,Low
+Where can I view my past payment receipts in the dashboard? (ref-1390),Billing,Low
+Would love a compact table view option on smaller laptop screens. (ref-1391),Feature Request,Low
+Unauthorized charge of $323 appeared on my invoice #41711. (ref-1392),Billing,High
+CSV upload fails whenever the file contains special characters. (ref-1393),Technical Support,Medium
+Can I link my GitHub account to my existing email login? (ref-1394),Account Access,Low
+My account was billed $63 after I already canceled my subscription. (ref-1395),Billing,High
+My promo code did not apply to my recent renewal payment. (ref-1396),Billing,Medium
+Can you add Slack integration for real-time ticket alerts? (ref-1397),Feature Request,Medium
+Where can I add a backup email address to my account settings? (ref-1398),Account Access,Low
+Unauthorized charge of $416 appeared on my invoice #53583. (ref-1399),Billing,High
+Can you share documentation on setting up custom webhook headers? (ref-1400),Technical Support,Low
+Our entire team is locked out because the app crashes right after login. (ref-1401),Technical Support,High
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1402),Technical Support,Low
+Can I get a copy of my tax invoice #36144 for last month? (ref-1403),Billing,Medium
+My promo code did not apply to my recent renewal payment. (ref-1404),Billing,Medium
+It would be very helpful to schedule automated weekly PDF reports. (ref-1405),Feature Request,Medium
+CSV upload fails whenever the file contains special characters. (ref-1406),Technical Support,Medium
+Password reset email link says expired as soon as I click it. (ref-1407),Account Access,Medium
+Support for bulk editing tags across multiple records at once. (ref-1408),Feature Request,Medium
+Where can I add a backup email address to my account settings? (ref-1409),Account Access,Low
+Admin user left the company and we cannot access the primary workspace. (ref-1410),Account Access,High
+Adding custom color themes for workspace branding would be nice. (ref-1411),Feature Request,Low
+Password reset email link says expired as soon as I click it. (ref-1412),Account Access,Medium
+Need help transferring workspace ownership to another team member. (ref-1413),Account Access,Medium
+Our entire team is locked out because the app crashes right after login. (ref-1414),Technical Support,High
+My account was billed $343 after I already canceled my subscription. (ref-1415),Billing,High
+I suspect my account was compromised. Please freeze access immediately! (ref-1416),Account Access,High
+Support for bulk editing tags across multiple records at once. (ref-1417),Feature Request,Medium
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1418),Technical Support,Low
+Would love a compact table view option on smaller laptop screens. (ref-1419),Feature Request,Low
+Need help transferring workspace ownership to another team member. (ref-1420),Account Access,Medium
+Our entire team is locked out because the app crashes right after login. (ref-1421),Technical Support,High
+Could you allow sorting saved filters alphabetically? (ref-1422),Feature Request,Low
+Need help transferring workspace ownership to another team member. (ref-1423),Account Access,Medium
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1424),Technical Support,Low
+Audit logs for user role changes are required for our compliance audit. (ref-1425),Feature Request,High
+My promo code did not apply to my recent renewal payment. (ref-1426),Billing,Medium
+Our entire team is locked out because the app crashes right after login. (ref-1427),Technical Support,High
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1428),Technical Support,Low
+Could you allow sorting saved filters alphabetically? (ref-1429),Feature Request,Low
+Admin user left the company and we cannot access the primary workspace. (ref-1430),Account Access,High
+Password reset email link says expired as soon as I click it. (ref-1431),Account Access,Medium
+Dark mode layout overlaps text on the analytics reporting page. (ref-1432),Technical Support,Medium
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1433),Technical Support,Low
+How do I update my company VAT number for future billing cycles? (ref-1434),Billing,Medium
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1435),Feature Request,High
+My promo code did not apply to my recent renewal payment. (ref-1436),Billing,Medium
+Support for bulk editing tags across multiple records at once. (ref-1437),Feature Request,Medium
+I suspect my account was compromised. Please freeze access immediately! (ref-1438),Account Access,High
+Can I link my GitHub account to my existing email login? (ref-1439),Account Access,Low
+Can you share documentation on setting up custom webhook headers? (ref-1440),Technical Support,Low
+I was double charged $184 on my credit card today. Refund immediately! (ref-1441),Billing,High
+Dark mode layout overlaps text on the analytics reporting page. (ref-1442),Technical Support,Medium
+Where can I add a backup email address to my account settings? (ref-1443),Account Access,Low
+Can I link my GitHub account to my existing email login? (ref-1444),Account Access,Low
+Unauthorized charge of $115 appeared on my invoice #87569. (ref-1445),Billing,High
+Minor typo found in the tooltip under the export settings menu. (ref-1446),Technical Support,Low
+I suspect my account was compromised. Please freeze access immediately! (ref-1447),Account Access,High
+Just checking what date my next automatic renewal is scheduled for. (ref-1448),Billing,Low
+I suspect my account was compromised. Please freeze access immediately! (ref-1449),Account Access,High
+Please add role-based access control for read-only contractors. (ref-1450),Feature Request,High
+Admin user left the company and we cannot access the primary workspace. (ref-1451),Account Access,High
+Can you add Slack integration for real-time ticket alerts? (ref-1452),Feature Request,Medium
+CSV upload fails whenever the file contains special characters. (ref-1453),Technical Support,Medium
+Dark mode layout overlaps text on the analytics reporting page. (ref-1454),Technical Support,Medium
+Admin user left the company and we cannot access the primary workspace. (ref-1455),Account Access,High
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1456),Account Access,High
+Webhook notifications are delayed by about 15 minutes today. (ref-1457),Technical Support,Medium
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1458),Technical Support,Low
+Audit logs for user role changes are required for our compliance audit. (ref-1459),Feature Request,High
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1460),Account Access,High
+Dark mode layout overlaps text on the analytics reporting page. (ref-1461),Technical Support,Medium
+Password reset email link says expired as soon as I click it. (ref-1462),Account Access,Medium
+Would love a compact table view option on smaller laptop screens. (ref-1463),Feature Request,Low
+Does your annual plan offer a discount compared to monthly billing? (ref-1464),Billing,Low
+Support for bulk editing tags across multiple records at once. (ref-1465),Feature Request,Medium
+Adding custom color themes for workspace branding would be nice. (ref-1466),Feature Request,Low
+It would be very helpful to schedule automated weekly PDF reports. (ref-1467),Feature Request,Medium
+Dark mode layout overlaps text on the analytics reporting page. (ref-1468),Technical Support,Medium
+Audit logs for user role changes are required for our compliance audit. (ref-1469),Feature Request,High
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1470),Account Access,High
+Can you share documentation on setting up custom webhook headers? (ref-1471),Technical Support,Low
+How do I change the display name shown on my user profile? (ref-1472),Account Access,Low
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1473),Feature Request,High
+Our entire team is locked out because the app crashes right after login. (ref-1474),Technical Support,High
+Could you allow sorting saved filters alphabetically? (ref-1475),Feature Request,Low
+Dark mode layout overlaps text on the analytics reporting page. (ref-1476),Technical Support,Medium
+Please add role-based access control for read-only contractors. (ref-1477),Feature Request,High
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1478),Account Access,High
+Password reset email link says expired as soon as I click it. (ref-1479),Account Access,Medium
+How do I update my company VAT number for future billing cycles? (ref-1480),Billing,Medium
+My account was billed $164 after I already canceled my subscription. (ref-1481),Billing,High
+Production API is returning 500 Internal Server Error for all requests! (ref-1482),Technical Support,High
+Data export job has been stuck at 0% for 6 hours and blocking our release. (ref-1483),Technical Support,High
+Could you allow sorting saved filters alphabetically? (ref-1484),Feature Request,Low
+Where can I view my past payment receipts in the dashboard? (ref-1485),Billing,Low
+Adding custom color themes for workspace branding would be nice. (ref-1486),Feature Request,Low
+Please add role-based access control for read-only contractors. (ref-1487),Feature Request,High
+Production API is returning 500 Internal Server Error for all requests! (ref-1488),Technical Support,High
+Audit logs for user role changes are required for our compliance audit. (ref-1489),Feature Request,High
+Audit logs for user role changes are required for our compliance audit. (ref-1490),Feature Request,High
+Admin user left the company and we cannot access the primary workspace. (ref-1491),Account Access,High
+Admin user left the company and we cannot access the primary workspace. (ref-1492),Account Access,High
+I suspect my account was compromised. Please freeze access immediately! (ref-1493),Account Access,High
+Need help transferring workspace ownership to another team member. (ref-1494),Account Access,Medium
+Can I link my GitHub account to my existing email login? (ref-1495),Account Access,Low
+Can you add Slack integration for real-time ticket alerts? (ref-1496),Feature Request,Medium
+Where can I add a backup email address to my account settings? (ref-1497),Account Access,Low
+SSO login with Google throws a permissions mismatch error. (ref-1498),Account Access,Medium
+Minor typo found in the tooltip under the export settings menu. (ref-1499),Technical Support,Low
+How do I change the display name shown on my user profile? (ref-1500),Account Access,Low
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1501),Technical Support,Low
+Production API is returning 500 Internal Server Error for all requests! (ref-1502),Technical Support,High
+Support for bulk editing tags across multiple records at once. (ref-1503),Feature Request,Medium
+Minor typo found in the tooltip under the export settings menu. (ref-1504),Technical Support,Low
+Support for bulk editing tags across multiple records at once. (ref-1505),Feature Request,Medium
+SSO login with Google throws a permissions mismatch error. (ref-1506),Account Access,Medium
+Data export job has been stuck at 0% for 6 hours and blocking our release. (ref-1507),Technical Support,High
+Webhook notifications are delayed by about 15 minutes today. (ref-1508),Technical Support,Medium
+It would be very helpful to schedule automated weekly PDF reports. (ref-1509),Feature Request,Medium
+Does your annual plan offer a discount compared to monthly billing? (ref-1510),Billing,Low
+My promo code did not apply to my recent renewal payment. (ref-1511),Billing,Medium
+Could you allow sorting saved filters alphabetically? (ref-1512),Feature Request,Low
+Can you share documentation on setting up custom webhook headers? (ref-1513),Technical Support,Low
+I suspect my account was compromised. Please freeze access immediately! (ref-1514),Account Access,High
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1515),Account Access,High
+Data export job has been stuck at 0% for 6 hours and blocking our release. (ref-1516),Technical Support,High
+Audit logs for user role changes are required for our compliance audit. (ref-1517),Feature Request,High
+Where can I view my past payment receipts in the dashboard? (ref-1518),Billing,Low
+Can you share documentation on setting up custom webhook headers? (ref-1519),Technical Support,Low
+Can you add Slack integration for real-time ticket alerts? (ref-1520),Feature Request,Medium
+How do I update my company VAT number for future billing cycles? (ref-1521),Billing,Medium
+I was double charged $267 on my credit card today. Refund immediately! (ref-1522),Billing,High
+Dark mode layout overlaps text on the analytics reporting page. (ref-1523),Technical Support,Medium
+My account was billed $217 after I already canceled my subscription. (ref-1524),Billing,High
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1525),Technical Support,Low
+Please add role-based access control for read-only contractors. (ref-1526),Feature Request,High
+Please add role-based access control for read-only contractors. (ref-1527),Feature Request,High
+Data export job has been stuck at 0% for 6 hours and blocking our release. (ref-1528),Technical Support,High
+Please add role-based access control for read-only contractors. (ref-1529),Feature Request,High
+Just checking what date my next automatic renewal is scheduled for. (ref-1530),Billing,Low
+Data export job has been stuck at 0% for 6 hours and blocking our release. (ref-1531),Technical Support,High
+Admin user left the company and we cannot access the primary workspace. (ref-1532),Account Access,High
+Data export job has been stuck at 0% for 6 hours and blocking our release. (ref-1533),Technical Support,High
+Adding custom color themes for workspace branding would be nice. (ref-1534),Feature Request,Low
+Support for bulk editing tags across multiple records at once. (ref-1535),Feature Request,Medium
+Audit logs for user role changes are required for our compliance audit. (ref-1536),Feature Request,High
+It would be very helpful to schedule automated weekly PDF reports. (ref-1537),Feature Request,Medium
+Does your annual plan offer a discount compared to monthly billing? (ref-1538),Billing,Low
+Does your annual plan offer a discount compared to monthly billing? (ref-1539),Billing,Low
+Would love a compact table view option on smaller laptop screens. (ref-1540),Feature Request,Low
+Can you add Slack integration for real-time ticket alerts? (ref-1541),Feature Request,Medium
+Could you allow sorting saved filters alphabetically? (ref-1542),Feature Request,Low
+Our entire team is locked out because the app crashes right after login. (ref-1543),Technical Support,High
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1544),Feature Request,High
+Does your annual plan offer a discount compared to monthly billing? (ref-1545),Billing,Low
+Audit logs for user role changes are required for our compliance audit. (ref-1546),Feature Request,High
+CSV upload fails whenever the file contains special characters. (ref-1547),Technical Support,Medium
+Production API is returning 500 Internal Server Error for all requests! (ref-1548),Technical Support,High
+We need SAML SSO support before we can roll this out to 500 employees. (ref-1549),Feature Request,High
+Just checking what date my next automatic renewal is scheduled for. (ref-1550),Billing,Low
+Just checking what date my next automatic renewal is scheduled for. (ref-1551),Billing,Low
+Could you allow sorting saved filters alphabetically? (ref-1552),Feature Request,Low
+Our entire team is locked out because the app crashes right after login. (ref-1553),Technical Support,High
+Two-factor authentication codes are not arriving and I cannot sign in. (ref-1554),Account Access,High
+Where can I add a backup email address to my account settings? (ref-1555),Account Access,Low
+CSV upload fails whenever the file contains special characters. (ref-1556),Technical Support,Medium
+Data export job has been stuck at 0% for 6 hours and blocking our release. (ref-1557),Technical Support,High
+Adding custom color themes for workspace branding would be nice. (ref-1558),Feature Request,Low
+Audit logs for user role changes are required for our compliance audit. (ref-1559),Feature Request,High
+Adding custom color themes for workspace branding would be nice. (ref-1560),Feature Request,Low
+Would love a compact table view option on smaller laptop screens. (ref-1561),Feature Request,Low
+Could you allow sorting saved filters alphabetically? (ref-1562),Feature Request,Low
+Webhook notifications are delayed by about 15 minutes today. (ref-1563),Technical Support,Medium
+I suspect my account was compromised. Please freeze access immediately! (ref-1564),Account Access,High
+Unauthorized charge of $453 appeared on my invoice #34966. (ref-1565),Billing,High
+My promo code did not apply to my recent renewal payment. (ref-1566),Billing,Medium
+Where can I view my past payment receipts in the dashboard? (ref-1567),Billing,Low
+Webhook notifications are delayed by about 15 minutes today. (ref-1568),Technical Support,Medium
+How do I change the display name shown on my user profile? (ref-1569),Account Access,Low
+Could you allow sorting saved filters alphabetically? (ref-1570),Feature Request,Low
+Could you allow sorting saved filters alphabetically? (ref-1571),Feature Request,Low
+Support for bulk editing tags across multiple records at once. (ref-1572),Feature Request,Medium
+Need help transferring workspace ownership to another team member. (ref-1573),Account Access,Medium
+Could you allow sorting saved filters alphabetically? (ref-1574),Feature Request,Low
+CSV upload fails whenever the file contains special characters. (ref-1575),Technical Support,Medium
+Production API is returning 500 Internal Server Error for all requests! (ref-1576),Technical Support,High
+It would be very helpful to schedule automated weekly PDF reports. (ref-1577),Feature Request,Medium
+Dark mode layout overlaps text on the analytics reporting page. (ref-1578),Technical Support,Medium
+Please add role-based access control for read-only contractors. (ref-1579),Feature Request,High
+SSO login with Google throws a permissions mismatch error. (ref-1580),Account Access,Medium
+Could you allow sorting saved filters alphabetically? (ref-1581),Feature Request,Low
+Minor typo found in the tooltip under the export settings menu. (ref-1582),Technical Support,Low
+Data export job has been stuck at 0% for 6 hours and blocking our release. (ref-1583),Technical Support,High
+Just checking what date my next automatic renewal is scheduled for. (ref-1584),Billing,Low
+Could you allow sorting saved filters alphabetically? (ref-1585),Feature Request,Low
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1586),Technical Support,Low
+Can I link my GitHub account to my existing email login? (ref-1587),Account Access,Low
+Audit logs for user role changes are required for our compliance audit. (ref-1588),Feature Request,High
+Would love a compact table view option on smaller laptop screens. (ref-1589),Feature Request,Low
+Can I link my GitHub account to my existing email login? (ref-1590),Account Access,Low
+Would love a compact table view option on smaller laptop screens. (ref-1591),Feature Request,Low
+Is there a keyboard shortcut to collapse the left navigation sidebar? (ref-1592),Technical Support,Low
+Need help transferring workspace ownership to another team member. (ref-1593),Account Access,Medium
+My promo code did not apply to my recent renewal payment. (ref-1594),Billing,Medium
+Production API is returning 500 Internal Server Error for all requests! (ref-1595),Technical Support,High
+Unauthorized charge of $417 appeared on my invoice #14152. (ref-1596),Billing,High
+My promo code did not apply to my recent renewal payment. (ref-1597),Billing,Medium
+Could you allow sorting saved filters alphabetically? (ref-1598),Feature Request,Low
+My promo code did not apply to my recent renewal payment. (ref-1599),Billing,Medium
