@@ -7,10 +7,14 @@ from sklearn.metrics import accuracy_score, confusion_matrix, f1_score
 from sklearn.model_selection import GridSearchCV
 from sklearn.pipeline import Pipeline
 
-# 1. Load Train and Validation Splits
-train_df = pd.read_csv("data/processed/train.csv")
-val_df = pd.read_csv("data/processed/val.csv")
+from pathlib import Path
 
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+DATA_DIR = PROJECT_ROOT / "data" / "processed"
+
+train_df = pd.read_csv(DATA_DIR / "train.csv")
+val_df = pd.read_csv(DATA_DIR / "val.csv")
+test_df = pd.read_csv(DATA_DIR / "test.csv")
 X_train, X_val = train_df["text"], val_df["text"]
 
 # 2. Define Pipeline & Hyperparameter Grid

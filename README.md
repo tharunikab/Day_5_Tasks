@@ -31,3 +31,25 @@ A composite `category + priority` key was used during splitting so every split p
 * **Train (`data/processed/train.csv`):** 420 rows (70%)
 * **Validation (`data/processed/val.csv`):** 90 rows (15%)
 * **Test (`data/processed/test.csv`):** 90 rows (15%)
+
+
+## Model Comparison & Deployment Selection
+
+### 1. Validation & Test Performance Comparison
+Both models were evaluated on the exact same stratified validation (`val.csv`) and test (`test.csv`, 90 tickets) splits:
+
+| Model | Val Accuracy | Test Accuracy | Macro F1 | Training Time | Inference Time per Ticket |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **TF-IDF + Logistic Regression** | 1.0000 (100%) | 1.0000 (100%) | 1.0000 | ~0.5 s | < 0.5 ms |
+| **DistilBERT (Fine-tuned)** | 1.0000 (100%) | 1.0000 (100%) | 1.0000 | ~2–4 mins | 62.40 ms |
+
+### 2. Where DistilBERT Wins vs. Where Baseline Is Good Enough
+* **Where TF-IDF + Logistic Regression is good enough:** On structured, keyword-distinct support tickets (such as explicit billing, login/account access, feature requests, and technical error phrases), TF-IDF + Logistic Regression matches DistilBERT's **100% Accuracy and 1.00 Macro F1** while running over **100x faster** per ticket.
+* **Where DistilBERT wins:** DistilBERT uses contextual self-attention rather than exact word matching, making it far stronger on noisy real-world tickets containing unseen synonyms, sarcasm, multi-sentence context, or subtle phrasing where exact keywords are absent.
+
+### 3. Deployment Justification (5 Lines)
+1. **Selected Model:** Deploy **TF-IDF + Logistic Regression** as the primary production model for the current ticket pipeline.
+2. **Equal Accuracy:** Both models achieved **1.0000 Accuracy** and **1.0000 Macro F1** on the validation and test sets, so DistilBERT provides zero accuracy gain on this dataset.
+3. **Superior Latency:** TF-IDF + Logistic Regression predicts in **under 0.5 ms per ticket**, whereas DistilBERT requires **62.40 ms per ticket** on CPU (more than 100x slower).
+4. **Lower Infrastructure Cost:** The baseline model is lightweight (~50 KB) and runs cheaply on standard CPU instances without requiring expensive GPU memory or heavy PyTorch dependencies.
+5. **Future Upgrade Path:** Re-evaluate DistilBERT only when real-world customer tickets introduce ambiguous, out-of-vocabulary phrasing that degrades baseline Macro F1 below target thresholds.
