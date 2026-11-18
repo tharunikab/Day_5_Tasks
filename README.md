@@ -33,6 +33,14 @@ A composite `category + priority` key was used during splitting so every split p
 * **Test (`data/processed/test.csv`):** 90 rows (15%)
 
 
+5-line justification
+1. Selected Model: We select TF-IDF + Logistic Regression for production deployment over fine-tuned DistilBERT.
+2. Equal Predictive Performance: Both models achieved 1.0000 Accuracy and 1.0000 Macro F1 on the identical validation and 90-ticket test splits, so DistilBERT offers no accuracy advantage here.
+3. 100x Faster Inference Speed: TF-IDF + Logistic Regression classifies tickets in under 0.5 ms per ticket, whereas DistilBERT requires 62.40 ms per ticket on CPU.
+4. Lower Infrastructure Cost: The baseline model is lightweight (~50 KB) and runs on inexpensive CPU instances without requiring costly GPU hardware or heavy PyTorch memory footprints.
+5. Clear Upgrade Path: DistilBERT remains available as a future upgrade only if incoming production tickets become more ambiguous and cause baseline Macro F1 to drop.
+
+
 ## Model Comparison & Deployment Selection
 
 ### 1. Validation & Test Performance Comparison
